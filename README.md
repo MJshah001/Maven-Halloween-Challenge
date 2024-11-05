@@ -8,6 +8,9 @@ This repository contains my submission for the **Maven Halloween Challenge**, a 
 
 Based on online votes and candy rankings, the challenge was to select treats that guarantee satisfaction across different candy preferences.
 
+
+https://github.com/user-attachments/assets/99f76e24-46b0-4d98-b759-bec748834171
+
 ## Approach 🚀
 
 ### Step-by-Step Process
@@ -26,6 +29,7 @@ Based on online votes and candy rankings, the challenge was to select treats tha
 
 4. **Data Visualization**:
    - Created an **interactive scatter plot in Tableau** to visualize clusters and analyze the top choices for candies. This visualization helped in selecting the final 3 candies based on popularity within clusters.
+
 
 ## Results 🏆
 
