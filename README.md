@@ -53,7 +53,7 @@ Through this project, I gained hands-on experience in:
 
 ## Visuals 📊
 
-![Tableau Scatter Plot]()  
+![Tableau Scatter Plot](https://github.com/MJshah001/Maven-Halloween-Challenge/blob/main/Tableau%20Scatterplot%20clustered.jpg)  
 
 
 ## Conclusion
